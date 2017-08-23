@@ -10259,7 +10259,7 @@
     <Value>不需要配送</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.PageTitle">
-    <Value>奥金瑞商城后台管理</Value>
+    <Value>nopCommerce后台管理</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Picture.RemovePicture">
     <Value>删除图片</Value>
