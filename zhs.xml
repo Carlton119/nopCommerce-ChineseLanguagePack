@@ -5576,7 +5576,7 @@
     <Value>允许用户投票</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Forums.AllowPostVoting.Hint">
-    <Value></Value>
+    <Value>Set if you want to allow users to vote for posts.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Forums.AllowPrivateMessages">
     <Value>启用私人讯息</Value>
@@ -10319,7 +10319,7 @@
     <Value>活动开始日期</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.DontSendBeforeDate.Hint">
-    <Value></Value>
+    <Value>Enter a specific date and time to send the campaign. Leave empty to send it immediately.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.Name">
     <Value>名称</Value>
@@ -11324,7 +11324,7 @@
     <Value>计划发送日期</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.DontSendBeforeDate.Hint">
-    <Value></Value>
+    <Value>The specific send date and time.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.EmailAccountName">
     <Value>电子邮件账号</Value>
@@ -16263,7 +16263,7 @@
     <Value>/</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Pager.ItemsPerPage">
-    <Value></Value>
+    <Value>items per page</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Pager.First">
     <Value>首页</Value>
@@ -16423,7 +16423,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DeliveryDate">
     <Value>发货日期</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.TelecommunicationsBroadcastingElectronicServices">
     <Value>通信， 直播和电子服务</Value>
   </LocaleResource>
@@ -16543,19 +16543,19 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.RecurringProduct">
     <Value>定期商品</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Rental">
     <Value>是否租用</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Prices">
     <Value>价格</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.inventory">
     <Value>库存</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Shipping">
     <Value>配送</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Security">
     <Value>角色</Value>
   </LocaleResource>
@@ -16620,7 +16620,7 @@
     <Value>全部</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Description">
-    <Value></Value>
+    <Value>The Return Request feature (RMA) enables customers to send products back to you. Here you can find all submitted return requests.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Description">
     <Value>定期付款用于自动更新消费品或订阅服务。</Value>
@@ -16644,7 +16644,7 @@
     <Value>全部</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Requirements.Description">
-    <Value></Value>
+    <Value>Set up requirements to a created discount if you want to limit it to certain user categories depending on a customer role, the amount spent, etc. You can use single requirement type, or group several types and apply them simultaneously.&lt;br&gt;Requirement group is a useful feature for creating discount requirement templates. You can create a requirement group just once and then use it every time you want this limitation to be applied. You can include one requirement group into another one if needed.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Requirements.DiscountRequirementType.AddGroup">
     <Value>添加折扣要求组</Value>
@@ -16659,7 +16659,7 @@
     <Value>订单ID</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Description">
-    <Value></Value>
+    <Value>Affiliate is an Internet-based marketing practice in which a business rewards one or more affiliates for each visitor or customer. It is a web-based pay-for-performance program designed to compensate affiliate partner for driving qualified leads or sales to a merchant web site.</Value>
   </LocaleResource>
   <LocaleResource Name="admin.affiliates.orders.customordernumber">
     <Value>订单ID</Value>
@@ -16669,7 +16669,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Orders.StartDate">
     <Value>开始日期</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.StartDateTimeUtc">
     <Value>开始日期</Value>
   </LocaleResource>
@@ -16681,10 +16681,10 @@
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Polls.Fields.StartDate">
     <Value>开始日期</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Customers.Reports.BestBy.StartDate">
     <Value>开始日期</Value>
-  </LocaleResource>  
+  </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.StartDate">
     <Value>开始日期</Value>
   </LocaleResource>
@@ -16705,10 +16705,10 @@
   </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Bestsellers.StartDate">
     <Value>开始日期</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Country.StartDate">
     <Value>开始日期</Value>
-  </LocaleResource>  
+  </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.NeverSold.StartDate">
     <Value>开始日期</Value>
   </LocaleResource>
@@ -16783,7 +16783,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.UsedByProducts.Published">
     <Value>已发布</Value>
-  </LocaleResource>  
+  </LocaleResource>
   <LocaleResource Name="Admin.Catalog.BulkEdit.Fields.Published">
     <Value>已发布</Value>
   </LocaleResource>
@@ -16951,7 +16951,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.BlockTitle.MiniShoppingCart">
     <Value>迷你购物车</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.RewardPoints.BlockTitle.Common">
     <Value>公共</Value>
   </LocaleResource>
@@ -17008,7 +17008,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.FriendlyName">
     <Value>友好名称</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.SystemName">
     <Value>系统名称</Value>
   </LocaleResource>
@@ -17023,7 +17023,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Configure">
     <Value>配置</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders">
     <Value>提货点</Value>
   </LocaleResource>
@@ -17038,7 +17038,7 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Hint">
     <Value>可用范围选项列表，在商品详情页展示。</Value>
-  </LocaleResource> 
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.Name">
     <Value>名称</Value>
   </LocaleResource>
@@ -17049,15 +17049,1386 @@
     <Value>访问控制列表是附加到客户角色的权限列表。 此列表指定用户对对象的访问权限。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Plugins.Description.DownloadMorePlugins">
-    <Value></Value>
+    <Value>&lt;p&gt;You can download more nopCommerce plugins in our &lt;a href="http://www.nopcommerce.com/marketplace.aspx?utm_source=admin-panel&amp;utm_medium=plugins&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;&lt;/p&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Plugins.OfficialFeed.Instructions">
-    <Value></Value>
+    <Value>&lt;p&gt;Here you can find third-party extensions and themes which are developed by our community and partners.They are also available in our &lt;a href="http://www.nopcommerce.com/marketplace.aspx?utm_source=admin-panel&amp;utm_medium=official-plugins&amp;utm_campaign=admin-panel" target="_blank"&gt;marketplace&lt;/a&gt;&lt;/p&gt;</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.24days">
     <Value>任务期不得超过24天。</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.Id">
     <Value>ID</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AccountActivation.AlreadyActivated">
+    <Value>Your account already has been activated</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.Or">
+    <Value>- or -</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.Errors.PasswordMatchesWithPrevious">
+    <Value>You entered the password that is the same as one of the last passwords you used. Please create a new password.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.ChangePassword.PasswordIsExpired">
+    <Value>Your password has expired, please create a new one</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerOrders.RecurringOrders.RetryLastPayment">
+    <Value>Retry last payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerProductReviews.NoRecords">
+    <Value>You haven't written any reviews yet</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.UploadedFile">
+    <Value>Uploaded file:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.CustomerReturnRequests.UploadedFile.Download">
+    <Value>Download</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailRevalidation">
+    <Value>Email validation</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailRevalidation.AlreadyChanged">
+    <Value>Your email already has been validated</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.EmailRevalidation.Changed">
+    <Value>Your email has been validated</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.EmailToRevalidate">
+    <Value>New email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Fields.EmailToRevalidate.Note">
+    <Value>(not validated yet)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.Login.WrongCredentials.LockedOut">
+    <Value>Customer is locked out</Value>
+  </LocaleResource>
+  <LocaleResource Name="Account.PasswordRecovery.PasswordAlreadyHasBeenChanged">
+    <Value>Your password already has been changed. For changing it once more, you need to again recover the password.</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewAddressAttribute">
+    <Value>Added a new address attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewAddressAttributeValue">
+    <Value>Added a new address attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewAffiliate">
+    <Value>Added a new affiliate (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewBlogPost">
+    <Value>Added a new blog post (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCampaign">
+    <Value>Added a new campaign (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCountry">
+    <Value>Added a new country (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCurrency">
+    <Value>Added a new currency (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCustomerAttribute">
+    <Value>Added a new customer attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewCustomerAttributeValue">
+    <Value>Added a new customer attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewEmailAccount">
+    <Value>Added a new email account (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewLanguage">
+    <Value>Added a new language (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewMeasureDimension">
+    <Value>Added a new measure dimension (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewMeasureWeight">
+    <Value>Added a new measure weight (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewNews">
+    <Value>Added a new news (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewStateProvince">
+    <Value>Added a new state or province (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewStore">
+    <Value>Added a new store (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewVendor">
+    <Value>Added a new vendor (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.AddNewWarehouse">
+    <Value>Added a new warehouse (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteAddressAttribute">
+    <Value>Deleted an address attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteAddressAttributeValue">
+    <Value>Deleted an address attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteAffiliate">
+    <Value>Deleted an affiliate (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteBlogPost">
+    <Value>Deleted a blog post (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteBlogPostComment">
+    <Value>Deleted a blog post comment (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCampaign">
+    <Value>Deleted a campaign (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCountry">
+    <Value>Deleted a country (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCurrency">
+    <Value>Deleted a currency (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCustomerAttribute">
+    <Value>Deleted a customer attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteCustomerAttributeValue">
+    <Value>Deleted a customer attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteEmailAccount">
+    <Value>Deleted an email account (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteLanguage">
+    <Value>Deleted a language (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteMeasureDimension">
+    <Value>Deleted a measure dimension (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteMeasureWeight">
+    <Value>Deleted a measure weight (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteMessageTemplate">
+    <Value>Deleted a message template (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteNews">
+    <Value>Deleted a news (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteNewsComment">
+    <Value>Deleted a news comment (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteProductReview">
+    <Value>Deleted a product review (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteStateProvince">
+    <Value>Deleted a state or province (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteStore">
+    <Value>Deleted a store (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteVendor">
+    <Value>Deleted a vendor (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.DeleteWarehouse">
+    <Value>Deleted a warehouse (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditAddressAttribute">
+    <Value>Edited an address attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditAddressAttributeValue">
+    <Value>Edited an address attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditAffiliate">
+    <Value>Edited an affiliate (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditBlogComment">
+    <Value>Edited a blog comment (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditBlogPost">
+    <Value>Edited a blog post (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCampaign">
+    <Value>Edited a campaign (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCountry">
+    <Value>Edited a country (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCurrency">
+    <Value>Edited a currency (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCustomerAttribute">
+    <Value>Edited a customer attribute (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditCustomerAttributeValue">
+    <Value>Edited a customer attribute value (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditEmailAccount">
+    <Value>Edited an email account (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditLanguage">
+    <Value>Edited a language (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditMeasureDimension">
+    <Value>Edited a measure dimension (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditMeasureWeight">
+    <Value>Edited a measure weight (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditMessageTemplate">
+    <Value>Edited a message template (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditNews">
+    <Value>Edited a news (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditNewsComment">
+    <Value>Edited a news comment (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditPlugin">
+    <Value>Edited a plugin (FriendlyName: '{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditProductReview">
+    <Value>Edited a product review (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditStateProvince">
+    <Value>Edited a state or province (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditStore">
+    <Value>Edited a store (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditTask">
+    <Value>Edited a task (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditVendor">
+    <Value>Edited a vendor (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.EditWarehouse">
+    <Value>Edited a warehouse (ID = {0})</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.ImportCategories">
+    <Value>{0} categories were imported</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.ImportManufacturers">
+    <Value>{0} manufacturers were imported</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.ImportProducts">
+    <Value>{0} products were imported</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.ImportStates">
+    <Value>{0} states and provinces were imported</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.InstallNewPlugin">
+    <Value>Installed a new plugin (FriendlyName: '{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="ActivityLog.UninstallPlugin">
+    <Value>Uninstalled a plugin (FriendlyName: '{0}')</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts">
+    <Value>Discounts</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts.Hint">
+    <Value>Select discounts to apply to this category. You can manage discounts by selecting Discounts from the Promotions menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Fields.Discounts.NoDiscounts">
+    <Value>No discounts available. Create at least one discount before mapping.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Categories.Fields.PageSize.Positive">
+    <Value>Page size should have a positive value.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts">
+    <Value>Discounts</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts.Hint">
+    <Value>Select discounts to apply to this manufacturer. You can manage discounts by selecting Discounts from the Promotions menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Discounts.NoDiscounts">
+    <Value>No discounts available. Create at least one discount before mapping.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PageSize.Positive">
+    <Value>Page size should have a positive value.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReplyText.Hint">
+    <Value>The reply text (by a store owner). If specified, then it'll be visible to a customer. Leave empty to ignore this functionality.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchApproved.Hint">
+    <Value>Search by a "Approved" property.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Categories">
+    <Value>Categories</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Categories.Hint">
+    <Value>Choose categories. You can manage product categories by selecting Catalog &gt; Categories.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Categories.NoCategoriesAvailable">
+    <Value>No categories available.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Copied">
+    <Value>The product has been copied successfully</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Copy.Name.New">
+    <Value>{0} - copy</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Copy.SKU.New">
+    <Value>{0}-copy</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.CrossSells.Hint">
+    <Value>The Cross-sell products option provides the opportunity to buy additional products that generally go with the selected product. They are displayed at the bottom of the checkout page.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Discounts">
+    <Value>Discounts</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Discounts.Hint">
+    <Value>Select discounts to apply to this product. You can manage discounts by selecting Discounts from the Promotions menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Discounts.NoDiscounts">
+    <Value>No discounts available. Create at least one discount before mapping.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers">
+    <Value>Manufacturers</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.Hint">
+    <Value>Choose the manufacturer. You can manage manufacturers by selecting Catalog &gt; Manufacturers.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.Manufacturers.NoManufacturersAvailable">
+    <Value>No manufacturers available.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.ProductAvailabilityRange">
+    <Value>Product availability range</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.ProductAvailabilityRange.Hint">
+    <Value>Choose the product availability range that indicates when the product is expected to be available when out of stock (e.g. Available in 10-14 days). You can manage availability ranges by selecting Configuration &gt; Shipping &gt; Dates and ranges.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Fields.ProductAvailabilityRange.None">
+    <Value>None</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.Mappings">
+    <Value>Mappings</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.Choose">
+    <Value>Choose an associated product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.Downloadable">
+    <Value>The associated product is downloadable, keep in mind that won't be able to download it.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.GiftCard">
+    <Value>The associated product is a gift card, keep in mind that customers can not specify its details in the product details page.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.HasAttributes">
+    <Value>The associated product has attributes, keep in mind that customers can not select them in the product details page.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.AssociatedProduct.HasRequiredAttributes">
+    <Value>The associated product has required product attributes, so customers won't be able to choose this product attribute value.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.CustomerEntersQty">
+    <Value>Customer enters quantity</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.Fields.CustomerEntersQty.Hint">
+    <Value>Allow customers enter the quantity of associated product.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.RelatedProducts.Hint">
+    <Value>The Related Products option provides the opportunity to advertise products that are not part of the selected category, to your visitors. These products are displayed on the product details pages.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Hint">
+    <Value>Here you can see a history of the product stock quantity changes.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Combination">
+    <Value>Attribute combination</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.CreatedOn">
+    <Value>Created On</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Message">
+    <Value>Message</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.StockQuantity">
+    <Value>Stock quantity</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.QuantityAdjustment">
+    <Value>Quantity adjustment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.StockQuantityHistory.Fields.Warehouse">
+    <Value>Warehouse</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Edit">
+    <Value>Edit tier price details</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.CustomerRole.Hint">
+    <Value>Select customer role for which the tier price will be available.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.EndDateTimeUtc.Hint">
+    <Value>The end date of the tier price in Coordinated Universal Time (UTC).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Price.Hint">
+    <Value>Specify the price.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Quantity.Hint">
+    <Value>Specify quantity for which this tier price will be available.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.StartDateTimeUtc.Hint">
+    <Value>The start date of the tier price in Coordinated Universal Time (UTC).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.Store.Hint">
+    <Value>Option to limit this tier price to a certain store. If you have multiple stores, choose one from the list.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.TierPrices.Hint">
+    <Value>Tier pricing is a promotional tool that allows a store owner to price items differently for higher quantities.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Countries.ImportTip">
+    <Value>You can download a CSV file with a list of states for other countries on the following page:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Currencies.Fields.RoundingType.Hint">
+    <Value>The rounding type.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Currencies.PublishedCurrencyRequired">
+    <Value>At least one published currency is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Languages.PublishedLanguageRequired">
+    <Value>At least one published language is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.CantDeletePrimary">
+    <Value>The primary dimension can't be deleted.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Description">
+    <Value>NOTE: if you change your primary dimension, then do not forget to update the appropriate ratios of the units</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.Name.Required">
+    <Value>Please provide a name.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Dimensions.Fields.SystemKeyword.Required">
+    <Value>Please provide a system keyword.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.CantDeletePrimary">
+    <Value>The primary weight can't be deleted.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Description">
+    <Value>NOTE: if you change your primary weight, then do not forget to update the appropriate ratios of the units</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.Name.Required">
+    <Value>Please provide a name.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.Measures.Weights.Fields.SystemKeyword.Required">
+    <Value>Please provide a system keyword.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Plugins.AdditionalInfo">
+    <Value>Additional info</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Plugins.Fields.AclCustomerRoles">
+    <Value>Limited to customer roles</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Plugins.Fields.AclCustomerRoles.Hint">
+    <Value>Choose one or several customer roles i.e. administrators, vendors, guests, who will be able to use this plugin. If you don't need this option just leave this field empty.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Blog.BlogCommentsMustBeApproved.Hint">
+    <Value>Check if blog comments must be approved by administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore">
+    <Value>Blog comments per store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Blog.ShowBlogCommentsPerStore.Hint">
+    <Value>Check to display blog comments written in the current store only.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.CatalogPages">
+    <Value>Catalog pages</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ExportImport">
+    <Value>Export/Import</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.Performance">
+    <Value>Performance</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ProductFields">
+    <Value>Product fields</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ProductPage">
+    <Value>Product page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.ProductSorting">
+    <Value>Product sorting</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.Tax">
+    <Value>Tax</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.BlockTitle.Tags">
+    <Value>Tags</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ExportImportProductAttributes">
+    <Value>Export/Import products with attributes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ExportImportProductAttributes.Hint">
+    <Value>Check if products should be exported/imported with product attributes.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewPossibleOnlyAfterPurchasing">
+    <Value>Product review possible only after product purchasing</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewPossibleOnlyAfterPurchasing.Hint">
+    <Value>Check if product can be reviewed only by customer who have already ordered it.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowSkuOnCatalogPages">
+    <Value>Show SKU on catalog pages</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowSkuOnCatalogPages.Hint">
+    <Value>Check to show product SKU on catalog pages in public store.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowSkuOnProductDetailsPage">
+    <Value>Show SKU on product details page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowSkuOnProductDetailsPage.Hint">
+    <Value>Check to show product SKU on the product details page in public store.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.Account">
+    <Value>Account</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.ExternalAuthentication">
+    <Value>External authentication</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.Password">
+    <Value>Password and security</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.Profile">
+    <Value>Profile</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.BlockTitle.TimeZone">
+    <Value>Time zone</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FailedPasswordAllowedAttempts">
+    <Value>Maximum login failures</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FailedPasswordAllowedAttempts.Hint">
+    <Value>Maximum login failures to lockout account. Set 0 to disable this feature.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FailedPasswordLockoutMinutes">
+    <Value>Lockout time (login failures)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.FailedPasswordLockoutMinutes.Hint">
+    <Value>Enter number of minutes to lockout users (for login failures).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime">
+    <Value>Password lifetime</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.PasswordLifetime.Hint">
+    <Value>Specify number of days for password expiration. Don't forget to check "EnablePasswordLifetime" property on customer role edit page for those roles, who will have to change passwords.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UnduplicatedPasswordsNumber">
+    <Value>Unduplicated passwords number</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UnduplicatedPasswordsNumber.Hint">
+    <Value>Specify the number of customer passwords that mustn't be the same as the previous one, enter 0 if the customer can use the same password time after time.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Forums.BlockTitle.Feeds">
+    <Value>Feeds</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Forums.BlockTitle.PageSizes">
+    <Value>Page sizes</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.FullText">
+    <Value>Full-Text</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Captcha">
+    <Value>CAPTCHA</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Localization">
+    <Value>Localization</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Pdf">
+    <Value>Pdf</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Security">
+    <Value>Security</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.Sitemap">
+    <Value>Sitemap</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.BlockTitle.TopMenuItems">
+    <Value>Top menu items</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Captcha.Instructions">
+    <Value>&lt;p&gt;A CAPTCHA is a program that can tell whether its user is a human or a computer.You've probably seen them — colorful images with distorted text at the bottom ofWeb registration forms. CAPTCHAs are used by many websites to prevent abuse from"bots," or automated programs usually written to generate spam. No computer programcan read distorted text as well as humans can, so bots cannot navigate sites protectedby CAPTCHAs. nopCommerce uses &lt;a href="http://www.google.com/recaptcha" target="_blank"&gt;reCAPTCHA&lt;/a&gt;.&lt;/p&gt;</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaAppropriateKeysNotEnteredError">
+    <Value>Captcha is enabled but the appropriate keys are not entered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayBlogMenuItem">
+    <Value>Display "Blog"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayBlogMenuItem.Hint">
+    <Value>Check if "Blog" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayForumsMenuItem">
+    <Value>Display "Forums"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayForumsMenuItem.Hint">
+    <Value>Check if "Forums" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayContactUsMenuItem">
+    <Value>Display "Contact us"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayContactUsMenuItem.Hint">
+    <Value>Check if "Contact us" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayCustomerInfoMenuItem">
+    <Value>Display "My account"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayCustomerInfoMenuItem.Hint">
+    <Value>Check if "My account" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayHomePageMenuItem">
+    <Value>Display "Home page"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayHomePageMenuItem.Hint">
+    <Value>Check if "Home page" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayNewProductsMenuItem">
+    <Value>Display "New products"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayNewProductsMenuItem.Hint">
+    <Value>Check if "New products" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayProductSearchMenuItem">
+    <Value>Display "Search"</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayDefaultMenuItemSettings.DisplayProductSearchMenuItem.Hint">
+    <Value>Check if "Search" menu item should be displayed in the top menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.LoadAllLocaleRecordsOnStartup.Warning">
+    <Value>It seems that you use Redis server for caching, keep in mind that enabling this setting create a lot of traffic between the Redis server and the application because of the large number of locales.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.Logo.Hint">
+    <Value>Upload your store logo. If not uploaded, then the default one will be used.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Media.BlockTitle.OtherPages">
+    <Value>Other pages</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Media.BlockTitle.Product">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Media.DefaultPictureZoomEnabled">
+    <Value>Picture zoom</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Media.DefaultPictureZoomEnabled.Hint">
+    <Value>Check to enable picture zoom on product details page.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.News.NewsCommentsMustBeApproved.Hint">
+    <Value>Check if news comments must be approved by administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.News.ShowNewsCommentsPerStore">
+    <Value>News comments per store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.News.ShowNewsCommentsPerStore.Hint">
+    <Value>Check to display news comments written in the current store only.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ActivateGiftCardsAfterCompletingOrder">
+    <Value>Activate gift cards after completing of an order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ActivateGiftCardsAfterCompletingOrder.Hint">
+    <Value>Check to activate related gift cards when an order is completed.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.AutoUpdateOrderTotalsOnEditingOrder">
+    <Value>Auto update order totals</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.AutoUpdateOrderTotalsOnEditingOrder.Hint">
+    <Value>Check to automatically update order totals on editing an order in admin area. IMPORANT: currently this functionality is in BETA testing status.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.GiftCards">
+    <Value>Gift cards</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.OrderTotals">
+    <Value>Order totals</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.BlockTitle.PdfInvoice">
+    <Value>Pdf invoice</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CompleteOrderWhenDelivered">
+    <Value>Complete order when delivered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CompleteOrderWhenDelivered.Hint">
+    <Value>Check if an order status should be set to "Complete" only when its shipping status is "Delivered". Otherwise, "Shipped" status will be enough.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask">
+    <Value>Order number mask</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Description.DD">
+    <Value>{DD} - day of order creation date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Description.ID">
+    <Value>{ID} - Order identifier</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Description.MM">
+    <Value>{MM} - month of order creation date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Description.YY">
+    <Value>{YY} - last two digits of year of order creation date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Description.YYYY">
+    <Value>{YYYY} - year of order creation date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.CustomOrderNumberMask.Hint">
+    <Value>Order number mask, for creating custom order number. For example, RE-{YYYY}-{MM}. Leave this field empty if you don't want to use custom order numbers.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.DeactivateGiftCardsAfterCancellingOrder">
+    <Value>Deactivate gift cards after cancelling of an order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.DeactivateGiftCardsAfterCancellingOrder.Hint">
+    <Value>Check to deactivate related gift cards when an order is cancelled.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.DeactivateGiftCardsAfterDeletingOrder">
+    <Value>Deactivate gift cards after deleting of an order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.DeactivateGiftCardsAfterDeletingOrder.Hint">
+    <Value>Check to deactivate related gift cards when an order is deleted.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ExportWithProducts">
+    <Value>Export orders with products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ExportWithProducts.Hint">
+    <Value>Check if orders should be exported with products.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestsAllowFiles">
+    <Value>Allow file uploads</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestsAllowFiles.Hint">
+    <Value>Check if you want to allow customers to upload files when submitting return requests.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AvailableStartDate">
+    <Value>Available start date</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.OneColumnProductPage">
+    <Value>Advanced product types</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Id">
+    <Value>ID</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.RewardPoints.ActivatePointsImmediately">
+    <Value>Activate points immediately</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.RewardPoints.ActivatePointsImmediately.Hint">
+    <Value>Activates bonus points immediately after their calculation</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.RewardPoints.ActivationDelay">
+    <Value>Reward points activation</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.RewardPoints.ActivationDelay.Hint">
+    <Value>Specify how many days (hours) must elapse before earned points become active. Points earned by purchase cannot be redeemed until activated. For example, you may set the days before the points become available to 7. In this case, the points earned will be available for spending only 7 days after the purchase.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.BlockTitle.Notifications">
+    <Value>Notifications</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.ConsiderAssociatedProductsDimensions">
+    <Value>Consider associated products dimensions and weight</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.ConsiderAssociatedProductsDimensions.Hint">
+    <Value>Check to consider associated products dimensions and weight on shipping, uncheck for example, if the main product already includes them.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.DisplayPickupPointsOnMap">
+    <Value>Display pickup points on the map</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.DisplayPickupPointsOnMap.Hint">
+    <Value>Check to display pickup points on the map.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.GoogleMapsApiKey">
+    <Value>Google maps API key</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.GoogleMapsApiKey.Hint">
+    <Value>Specify Google maps API key.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.HideShippingTotal">
+    <Value>Hide shipping total if shipping is not required</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Shipping.HideShippingTotal.Hint">
+    <Value>Check if you want to hide 'Shipping total' label when shipping is not required.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.BlockTitle.Wishlist">
+    <Value>Wishlist</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.CartsSharedBetweenStores">
+    <Value>Carts shared between stores</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.CartsSharedBetweenStores.Hint">
+    <Value>Determines whether shopping carts (and wishlists) are shared between stores (in multi-store environment).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Payment">
+    <Value>Payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.BlockTitle.Shipping">
+    <Value>Shipping</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.DefaultTaxCategory">
+    <Value>Default tax category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.DefaultTaxCategory.Hint">
+    <Value>Select default tax category for products.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.TaxBasedOnPickupPointAddress">
+    <Value>Tax based on pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.TaxBasedOnPickupPointAddress.Hint">
+    <Value>A value indicating whether to use pickup point address (when pickup point is chosen) for tax calculation.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Tax.TaxCategories.None">
+    <Value>[None]</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Vendor.AllowVendorsToImportProducts">
+    <Value>Allow vendors to import products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.Vendor.AllowVendorsToImportProducts.Hint">
+    <Value>Check if vendors are allowed to import products.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.BackToList">
+    <Value>back to pickup point provider list</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Added">
+    <Value>The new product availability range has been added successfully.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.AddNew">
+    <Value>Add a new product availability range</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.BackToList">
+    <Value>back to product availability range list</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Deleted">
+    <Value>The product availability range has been deleted successfully.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.EditProductAvailabilityRangeDetails">
+    <Value>Edit product availability range details</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.DisplayOrder.Hint">
+    <Value>The display order of this product availability range. 1 represents the top of the list.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.Name.Hint">
+    <Value>Enter product availability range name.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Fields.Name.Required">
+    <Value>Please provide a name.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Shipping.ProductAvailabilityRanges.Updated">
+    <Value>The product availability range has been updated successfully.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.Tags.Placeholder">
+    <Value>Enter tags ...</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore">
+    <Value>Store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.List.SearchStore.Hint">
+    <Value>Search by a specific store.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnFrom.Hint">
+    <Value>The creation from date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.CreatedOnTo.Hint">
+    <Value>The creation to date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchApproved.Hint">
+    <Value>Search by a "Approved" property.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Blog.Comments.List.SearchText.Hint">
+    <Value>Search in comment text.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Copied">
+    <Value>The message template has been copied successfully</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.BackInStock">
+    <Value>This message template is used when the customer subscribed for the certain product which is unavailable at the moment to notify the customer about the product being back to stock again. You can set up this option by ticking the checkbox &lt;strong&gt;Allow back in stock subscriptions&lt;/strong&gt; in Product info tab - Inventory section.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.EmailRevalidationMessage">
+    <Value>This message template is used when a customer changes an email address in his account. The customer receives a message to confirm an email address used when changing email address.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.EmailValidationMessage">
+    <Value>This message template is used the option Email notification from Registration method dropdown list in Configuration - Settings - Customer settings is selected. The customer receives a message to confirm an email address used when registering.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.NewOrderNote">
+    <Value>This message template is used when the customer gets a notification about a new order being placed from this account.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.NewPM">
+    <Value>This message template is used when the customer gets a notification about a new private message being received. You can set up this option by ticking the checkbox &lt;strong&gt;Show alert for PM&lt;/strong&gt; in Configuration - Settings - Forum settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.PasswordRecovery">
+    <Value>This message template is used when a customer forgets a password needed to log in the account. The customer receives a message with a link for entering a new password.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Customer.WelcomeMessage">
+    <Value>This message template is used to welcome a new customer after registration.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Forums.NewForumPost">
+    <Value>This message template is used when a new forum post in certain forum topic is created. The message is received by a store owner.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Forums.NewForumTopic">
+    <Value>This message template is used when a new forum topic is created. The message is received by a store owner.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.GiftCard.Notification">
+    <Value>This message template is used to send a notification to a customer about getting a gift card.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewCustomer.Notification">
+    <Value>This message template is used when a new customer is registered. The message is received by a store owner. You can set up this option by ticking the checkbox &lt;strong&gt;Notify about new customer registration&lt;/strong&gt; in Configuration - Settings - Customer settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewReturnRequest.CustomerNotification">
+    <Value>This message template is used to notify a customer about a new return request submitted from his/her account.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewReturnRequest.StoreOwnerNotification">
+    <Value>This message template is used when a new return request is created. The message is received by a store owner.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.News.NewsComment">
+    <Value>This message template is used when a new comment to the certain news item is created. The message is received by a store owner. You can set up this option by ticking the checkbox &lt;strong&gt;Notify about new news comments&lt;/strong&gt; in Configuration - Settings - News settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewsLetterSubscription.ActivationMessage">
+    <Value>This message template is used when a customer subscribes to the newsletter to confirm the subscription.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewsLetterSubscription.DeactivationMessage">
+    <Value>This message template is used when a customer unsubscribes to the newsletter to confirm the subscription deactivation. You can allow users to unsubscribe by ticking the checkbox &lt;strong&gt;Newsletter box. Allow to unsubscribe&lt;/strong&gt; in Configuration - Settings - Customer settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.NewVATSubmitted.StoreOwnerNotification">
+    <Value>This message template is used when a new VAT is submitted. The message is received by a store owner. You can set up this option by clicking &lt;strong&gt;Notify admin when a new VAT number is submitted&lt;/strong&gt; in Configuration - Settings - Tax settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderCancelled.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain order was canceled. The order can ba canceled by a customer on the account page or by store owner in Customers - Customers in Orders tab or in Sales - Orders.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderCompleted.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain order was completed. The order gets the order status Complete when it''s paid and delivered, or it can be changed manually to Complete in Sales - Orders.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPaid.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain order was paid. The order gets the payment status Paid when the amount was charged, or it can be changed manually Sales - Orders by clicking Mark as paid button in Payment status.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPaid.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain order was paid. The order gets the status Paid when the amount was charged, or it can be changed manually Sales - Orders by clicking Mark as paid button in Payment status.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPaid.VendorNotification">
+    <Value>This message template is used to notify a vendor that the certain order was paid. The order gets the status Paid when the amount was charged.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPlaced.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain order was placed. Orders can be viewed by a customer on the account page.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPlaced.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain order was placed. Orders can be viewed by a store owner in Sales - Orders or in Customers menu.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderPlaced.VendorNotification">
+    <Value>This message template is used to notify a vendor that the certain order was placed. Orders can be viewed by a vendor in Sales - Orders. You can allow them to access this part of Admin Area in Configuration - Access control list.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderRefunded.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain order was refunded. The customer can submit to refund the order when the payment status is paid on the account page, or it can be done by a store owner in Sales - Orders by clicking "Refund" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.OrderRefunded.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain order was refunded. The customer can submit to refund the order when the payment status is paid on the account page, or it can be done by a store owner in Sales - Orders by clicking "Refund" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Product.ProductReview">
+    <Value>This message template is used to notify a store owner that a new product review is created. You can set up this option by ticking the checkbox &lt;strong&gt;Notify about new product reviews&lt;/strong&gt; in Configuration - Settings - Catalog settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.QuantityBelow.AttributeCombination.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain product attribute combination is getting low stock. You can set up the combination minimum quantity when creating or editing the product in Product attribute tab - Attributes combinations tab in Notify admin for quantity below field.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.QuantityBelow.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain product is getting low stock. You can set up the minimum  product quantity when creating or editing the product in Inventory section, &lt;strong&gt;Minimum stock qty field&lt;/strong&gt;.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.RecurringPaymentCancelled.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain recurring payment is canceled. Payment can be canceled by a customer in the account page or by a store owner in Sales - Recurring payments in History tab by clicking "Cancel recurring payment" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.RecurringPaymentCancelled.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the certain recurring payment is canceled. Payment can be canceled by a customer in the account page or by a store owner in Sales - Recurring payments in History tab by clicking "Cancel recurring payment" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.RecurringPaymentFailed.CustomerNotification">
+    <Value>This message template is used to notify a customer that the certain recurring payment is failed. For example, the amount can''t be charged from the provided credit card.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.ReturnRequestStatusChanged.CustomerNotification">
+    <Value>This message template is used to notify a customer that the request status to the certain order is changed. You can set up this option in Sales - Return requests by clicking "Notify customer about status change" button.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Service.ContactUs">
+    <Value>This message template is used to notify a store owner about a message sent through the contact form.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Service.ContactVendor">
+    <Value>This message template is used to notify a vendor about a message sent through the contact form.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Service.EmailAFriend">
+    <Value>This message template is used to send "email a friend" message.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.ShipmentDelivered.CustomerNotification">
+    <Value>This message template is used to notify a customer that the shipping status of the certain order is set to delivered. You can set up this option in Configuration - Settings - Shipping settings by ticking the checkbox &lt;strong&gt;Display shipment events (customers)&lt;/strong&gt;.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.ShipmentSent.CustomerNotification">
+    <Value>This message template is used to notify a customer that the shipping status of the certain order is sent. You can set up this option in Configuration - Settings - Shipping settings by ticking the checkbox &lt;strong&gt;Display shipment events (customers)&lt;/strong&gt;.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.VendorAccountApply.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that new user has applied for vendor account. You can allow customers to apply for vendor account in Configuration - Setting - Vendor settings by ticking the checkbox &lt;strong&gt;Allow customers to apply for vendor account&lt;/strong&gt;.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.VendorInformationChange.StoreOwnerNotification">
+    <Value>This message template is used to notify a store owner that the vendor changed some vendor''s details. You can allow vendors to change info about themselves in Configuration - Setting - Vendor settings by ticking the checkbox &lt;strong&gt;Allow vendors to edit info&lt;/strong&gt;.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Description.Wishlist.EmailAFriend">
+    <Value>This message template is used when a customer wants to share some product from the wishlist with a friend by sending an email. You can set up this option by ticking the checkbox Allow customers to email their wishlists in Configuration - Settings - Shopping cart settings.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Tokens.ConditionalStatement">
+    <Value>For conditional expressions use the token %if (your conditions ) ... endif%</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnFrom.Hint">
+    <Value>The creation from date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.News.Comments.List.CreatedOnTo.Hint">
+    <Value>The creation to date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchApproved.Hint">
+    <Value>Search by a "Approved" property.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.News.Comments.List.SearchText.Hint">
+    <Value>Search in title and comment text.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.CustomerRoles.Fields.EnablePasswordLifetime.Hint">
+    <Value>Check to force customers to change their passwords after a specified time.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.AddCustomerToGuestsOrRegisteredRoleError">
+    <Value>Add the customer to 'Guests' or 'Registered' customer role</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.OnlyAdminCanChangePassword">
+    <Value>You're not allowed to change passwords of administrators. Only administrators can do it.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.OnlyAdminCanDeleteAdmin">
+    <Value>You're not allowed to delete administrators. Only administrators can do it.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.Hint">
+    <Value>Choose customer roles of this user.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.Fields.CustomerRoles.NoRoles">
+    <Value>No customer roles available. Create at least one customer role before mapping.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.Fields.RegisteredInStore">
+    <Value>Registered in the store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.Fields.RegisteredInStore.Hint">
+    <Value>Indicating in which store the customer is registered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.GuestsAndRegisteredRolesError">
+    <Value>The customer cannot be in both 'Guests' and 'Registered' customer roles</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.NonAdminNotImpersonateAsAdminError">
+    <Value>A non-admin user cannot impersonate as an administrator</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.Orders.CustomOrderNumber">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.RewardPoints.ActivatedLater">
+    <Value>The points will be activated on {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Customers.Customers.ValidEmailRequiredRegisteredRole">
+    <Value>Valid Email is required for customer to be in 'Registered' role</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.GiftCards.Fields.CustomOrderNumber">
+    <Value>Order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.GiftCards.Fields.CustomOrderNumber.Hint">
+    <Value>The gift card was purchased with this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.GiftCards.Fields.OrderId">
+    <Value>Order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.GiftCards.Fields.OrderId.Hint">
+    <Value>The gift card was purchased with this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.GiftCards.History.CustomOrderNumber">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.CustomOrderNumber.Hint">
+    <Value>The unique number of this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderShipping">
+    <Value>Order shipping</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderShipping.Hint">
+    <Value>The total shipping cost for this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderStatus.CancelledNotification">
+    <Value>This order is cancelled</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderSubtotal">
+    <Value>Order subtotal</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderSubtotal.Hint">
+    <Value>The subtotal of this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderSubTotalDiscount">
+    <Value>Order subtotal discount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.OrderSubTotalDiscount.Hint">
+    <Value>The subtotal discount of this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.PaymentMethodAdditionalFee">
+    <Value>Payment method additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.PaymentMethodAdditionalFee.Hint">
+    <Value>The payment method additional fee for this order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.PickupAddress">
+    <Value>Pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.PickupAddress.Hint">
+    <Value>Pickup point address info.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Fields.PickupAddress.ViewOnGoogleMaps">
+    <Value>View address on Google Maps</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.OrderItem.DeleteAssociatedGiftCardRecordError">
+    <Value>This order item has an associated gift card record. Please delete it first</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CustomOrderNumber">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CustomOrderNumber.Hint">
+    <Value>The order associated to this shipment.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Pager.Refresh">
+    <Value>Refresh</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Campaigns.Fields.EmailAccount">
+    <Value>Email account</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Campaigns.Fields.EmailAccount.Hint">
+    <Value>The email account that will be used to send this campaign.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.GroupIsEmpty">
+    <Value>The group is empty</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.GroupName.Hint">
+    <Value>Specify name of the requirement group (e.g. "Permitted customer roles").</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.InteractionTypeInGroup">
+    <Value>Interaction type in this group is</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup">
+    <Value>Add to group</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup.Hint">
+    <Value>Choose the group you want the requirement group you’re creating to be assigned to</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RequirementGroup.Title">
+    <Value>Group</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.Requirement.Title">
+    <Value>Requirement</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveRequirement">
+    <Value>Remove requirement</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.Requirements.RemoveGroup">
+    <Value>Remove group</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Promotions.Discounts.IgnoreDiscounts.Warning">
+    <Value>In order to use this functionality you have to disable the following setting: Configuration &gt; Catalog settings &gt; Ignore discounts (sitewide).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.RecurringPayments.History.CustomOrderNumber">
+    <Value>Created order</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.RecurringPayments.History.LastPaymentFailed">
+    <Value>Last payment failed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.Fields.CustomOrderNumber">
+    <Value>Order #</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.Fields.CustomOrderNumber.Hint">
+    <Value>The unique number of the order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.Fields.UploadedFile">
+    <Value>Uploaded file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.Fields.UploadedFile.Download">
+    <Value>Download</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.Fields.UploadedFile.Hint">
+    <Value>File uploaded by customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.OrderItemDeleted">
+    <Value>Order item is deleted</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.SearchCustomNumber.Hint">
+    <Value>Search by a specific return request identifier.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.SearchEndDate.Hint">
+    <Value>The end date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.SearchReturnRequestStatus.Hint">
+    <Value>Search by a specific return request status e.g. Received.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.ReturnRequests.SearchStartDate.Hint">
+    <Value>The start date for the search.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.SalesReport.NeverSold.SearchCategory.Hint">
+    <Value>Load products only from a specific category.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.SalesReport.NeverSold.SearchManufacturer.Hint">
+    <Value>Load products only from a specific manufacturer.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.SalesReport.NeverSold.SearchStore">
+    <Value>Store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.SalesReport.NeverSold.SearchStore.Hint">
+    <Value>Load products only from a specific store (available in this store).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.SalesReport.NeverSold.SearchVendor.Hint">
+    <Value>Load products only by a specific vendor (owned by this vendor).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.CancelOrder">
+    <Value>The stock quantity has been increased by canceling the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.Combination.Edit">
+    <Value>The stock quantity of combination has been edited</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.CopyProduct">
+    <Value>The stock quantity has been edited by copying the product #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.DeleteOrder">
+    <Value>The stock quantity has been increased by deleting the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.DeleteOrderItem">
+    <Value>The stock quantity has been increased by deleting an order item from the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.DeleteShipment">
+    <Value>The stock quantity has been increased by deleting a shipment from the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.Edit">
+    <Value>The stock quantity has been edited</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.MultipleWarehouses">
+    <Value>Multiple warehouses.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.EditOrder">
+    <Value>The stock quantity has been changed by editing the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.ImportProduct.Edit">
+    <Value>The stock quantity has been changed by importing product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.ImportProduct.EditWarehouse">
+    <Value>Products have been moved {0} {1} by importing product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.EditWarehouse">
+    <Value>Products have been moved {0} {1}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.EditWarehouse.New">
+    <Value>to the {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.EditWarehouse.Old">
+    <Value>from the {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.PlaceOrder">
+    <Value>The stock quantity has been reduced by placing the order #{0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.StockQuantityHistory.Messages.Ship">
+    <Value>The stock quantity has been reduced when an order item of the order #{0} was shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.System.QueuedEmails.Fields.AttachedDownload">
+    <Value>Attached static file</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.System.QueuedEmails.Fields.AttachedDownload.Hint">
+    <Value>The attached static file that will be sent in this email.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.System.Templates.Product.IgnoredProductTypes">
+    <Value>Ignored product type IDs (advanced)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.System.Warnings.URL.Reserved">
+    <Value>Entered page name already exists, so it will be replaced by '{0}'</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Vendors.Address">
+    <Value>Address (optional)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Vendors.Fields.PageSize.Positive">
+    <Value>Page size should have a positive value.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Blog.Comments.SeeAfterApproving">
+    <Value>Blog comment is successfully added. You will see it after approving by a store administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints">
+    <Value>Pickup</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.Description">
+    <Value>Pick up your items at the store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.Name">
+    <Value>Pickup at {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.NotAvailable">
+    <Value>Pickup points could not be loaded</Value>
+  </LocaleResource>
+  <LocaleResource Name="Checkout.PickupPoints.SelectPickupPoint">
+    <Value>Select pickup point</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.RewardPointsActivatingDelayPeriod.Days">
+    <Value>Days</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.RewardPointsActivatingDelayPeriod.Hours">
+    <Value>Hours</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding001">
+    <Value>Default rounding</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding005Up">
+    <Value>Rounding up with 0.05 intervals (0.06 round to 0.10)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding005Down">
+    <Value>Rounding down with 0.05 intervals (0.06 round to 0.05)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding01Up">
+    <Value>Rounding up with 0.10 intervals (1.05 round to 1.10)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding01Down">
+    <Value>Rounding down with 0.10 intervals (1.05 round to 1.00)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding05">
+    <Value>Rounding with 0.50 intervals</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding1">
+    <Value>Rounding with 1.00 intervals (1.01-1.49 round to 1.00, 1.50-1.99 round to 2.00)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Directory.RoundingType.Rounding1Up">
+    <Value>Rounding up with 1.00 intervals (1.01–1.99 round to 2.00)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.RequirementGroupInteractionType.And">
+    <Value>AND</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.Nop.Core.Domain.Discounts.RequirementGroupInteractionType.Or">
+    <Value>OR</Value>
+  </LocaleResource>
+  <LocaleResource Name="Nop.Web.Framework.Validators.MaxDecimal">
+    <Value>The value is out of range. Maximum value is {0}.99</Value>
+  </LocaleResource>
+  <LocaleResource Name="News.Comments.SeeAfterApproving">
+    <Value>News comment is successfully added. You will see it after approving by a store administrator.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Newsletter.ResultAlreadyDeactivated">
+    <Value>Your subscription already has been deactivated.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.PickupAddress">
+    <Value>Pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="Order.Shipments.PickupAddress">
+    <Value>Pickup point address</Value>
+  </LocaleResource>
+  <LocaleResource Name="PageTitle.EmailRevalidation">
+    <Value>Email validation</Value>
+  </LocaleResource>
+  <LocaleResource Name="PDFInvoice.Pickup">
+    <Value>Pickup point:</Value>
+  </LocaleResource>
+  <LocaleResource Name="ProductAttributes.Quantity">
+    <Value> - quantity {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.AvailabilityRange">
+    <Value>Available in {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Availability.BackorderingWithDate">
+    <Value>Out of stock - on backorder and will be dispatched once in stock ({0}).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductAttributes.PriceAdjustment.PerItem">
+    <Value> per item</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.ProductAttributes.PriceAdjustment.Quantity">
+    <Value>Enter quantity:</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Wishlist.AddToWishlist">
+    <Value>Add to wishlist</Value>
+  </LocaleResource>
+  <LocaleResource Name="Products.Wishlist.AddToWishlist.Update">
+    <Value>Update</Value>
+  </LocaleResource>
+  <LocaleResource Name="ReturnRequests.UploadedFile">
+    <Value>Upload (any additional document, scan, etc)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.ProductReviewPossibleOnlyAfterPurchasing">
+    <Value>Product can be reviewed only after purchasing it</Value>
+  </LocaleResource>
+  <LocaleResource Name="Reviews.Reply">
+    <Value>A manager responded to this review</Value>
+  </LocaleResource>
+  <LocaleResource Name="RewardPoints.ActivatedLater">
+    <Value>The points will be activated on {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.AvailabilityRange">
+    <Value>Available in {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="ShoppingCart.MaximumDiscountedQty">
+    <Value>Discounted qty: {0}</Value>
   </LocaleResource>
 </Language>
